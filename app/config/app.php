@@ -29,7 +29,7 @@ return [
      *
      * Default value: 'Directory Lister'
      */
-    'site_title' => env('SITE_TITLE', 'Directory Lister'),
+    'site_title' => env('SITE_TITLE', 'Media Kit - Direct Aid Beta '),
 
     /**
      * Meta tag description text.
