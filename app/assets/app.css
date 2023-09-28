@@ -9696,7 +9696,13 @@ video {
     visibility: visible
 }
 
-.dark
+.dark .dark\:aseelPrimary {
+    background-color: #51bbb3;
+}
+
+.dark .dark\:aseelSecondary {
+    background-color: #029695;
+}
 
 .dark .dark\:translate-y-2 {
     --tw-translate-y: 0.5rem;
