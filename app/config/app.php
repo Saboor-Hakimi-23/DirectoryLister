@@ -29,14 +29,14 @@ return [
      *
      * Default value: 'Directory Lister'
      */
-    'site_title' => env('SITE_TITLE', 'Media Kit - Direct Aid Beta '),
+    'site_title' => env('SITE_TITLE', 'Media Kit'),
 
     /**
      * Meta tag description text.
      *
      * Default value: 'Yet another directory listing, powered by Directory Lister.'.
      */
-    'meta_description' => env('META_DESCRIPTION', 'Yet another directory listing, powered by Directory Lister.'),
+    'meta_description' => env('META_DESCRIPTION', 'AseelApp Media Kit Assets'),
 
     /**
      * Text of the 'home' link in the navigation breadcrumbs. If undefined or
