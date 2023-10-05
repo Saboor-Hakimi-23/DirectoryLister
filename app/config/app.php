@@ -29,14 +29,14 @@ return [
      *
      * Default value: 'Directory Lister'
      */
-    'site_title' => env('SITE_TITLE', 'Media Kit'),
+    'site_title' => env('SITE_TITLE', 'AseelApp Media Kit'),
 
     /**
      * Meta tag description text.
      *
      * Default value: 'Yet another directory listing, powered by Directory Lister.'.
      */
-    'meta_description' => env('META_DESCRIPTION', 'AseelApp Media Kit Assets'),
+    'meta_description' => env('META_DESCRIPTION', "Join Aseel's mission of doing good by extending vital aid to Afghanistan. Make a positive impact today."),
 
     /**
      * Text of the 'home' link in the navigation breadcrumbs. If undefined or
